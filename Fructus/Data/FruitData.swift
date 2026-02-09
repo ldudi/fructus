@@ -12,13 +12,6 @@ import SwiftUI
 let fruitsData: [Fruit] = [
     Fruit(
         title: "Blueberry",
-        headline: "Blueberries are sweat, nutritious and widly popular fruit all over the world",
-        image: "blueberry",
-        gradientColors: [Color("ColorBlueberryLight"), Color("ColorBlueberryDark")],
-        description: "Blurberries are pernnial flowering plants with blue or purple berries",
-        nutrition: ["240 kJ", "9.96 g", "0.33 g", "0.74 g", "A, B1", "Calcium, Magnasium"]),
-    Fruit(
-        title: "Blueberry",
         headline: "Blueberries are sweet, nutritious and wildly popular fruit all over the world.",
         image: "blueberry",
         gradientColors: [Color("ColorBlueberryLight"), Color("ColorBlueberryDark")],
